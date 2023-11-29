@@ -2,4 +2,4 @@
 
 hello its gabby
 
-f you
+thanks gabby
