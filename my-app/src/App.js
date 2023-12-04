@@ -1,7 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+<<<<<<< HEAD
 import './index.html'
 import React, {useState, useEffect } from 'react';
+=======
+import React, { UseState, useEffect } from 'react';
+>>>>>>> c5f51e64c408568b7bf82e9e7ac489b3a8512914
 import { GoogleLogin, googleLogout, useGoogleLogin } from '@react-oauth/google';
 import axios from 'axios';
 
