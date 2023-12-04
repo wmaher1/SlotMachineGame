@@ -1,3 +1,5 @@
 # SlotMachineGame
 
-hi guys lets see if this works now
+Trying google API
+
+
